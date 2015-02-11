@@ -11,9 +11,5 @@ begin
   end;
   end;
   end.
-
-
-
-
 //Лучше бить скилом
 Engine.useSkill(ИД СКИЛА, true);
